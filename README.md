@@ -1,20 +1,16 @@
-[![Logo Image](https://cdn.pterodactyl.io/logos/Banner%20Logo%20Black@2x.png)](https://pterodactyl.io)
-
 # USE
-This branch enables you to use bdlauncher in the pterodactyl panel.<br>
-Egg file: https://github.com/Dmitri233/bdlauncher-pterodactyl/releases/tag/egg<br>
+This branch enables you to use wine-bdlauncher in the pterodactyl panel.<br>
+Egg file: https://github.com/Dmitri233/bdlauncher-pterodactyl/releases/tag/wine-egg<br>
 Docker images: https://hub.docker.com/r/dmitri233/bdlauncher-pterodactyl<br>
-bdlauncher: https://github.com/BDLDev/bdlauncher/<br>
+wine-bdlauncher: https://github.com/codehz/wine-bdlauncher/<br>
 
-这个分支使您可以在翼龙面板中使用bdlauncher.<br>
-Egg 文件: https://github.com/Dmitri233/bdlauncher-pterodactyl/releases/tag/egg<br>
+这个分支使您可以在翼龙面板中使用wine-bdlauncher.<br>
+Egg 文件: https://github.com/Dmitri233/bdlauncher-pterodactyl/releases/tag/wine-egg<br>
 Docker 镜像: https://hub.docker.com/r/dmitri233/bdlauncher-pterodactyl<br>
-bdlauncher: https://github.com/BDLDev/bdlauncher/<br>
+wine-bdlauncher: https://github.com/codehz/wine-bdlauncher/<br>
 
 
 
-## Contributing
-We welcome any contributions you might have. Please follow our formatting for Dockerfiles, which involves minimizing the number of layers, as well as the size of the container. If possible, please stick to Alpine Linux based images, however we do make use of `ubuntu:18.04` in the [`source` branch](https://github.com/parkervcp/images/tree/source) due to Source Engine limitations, and reducing the conflicts that might arise.
 
 ## License
 ```

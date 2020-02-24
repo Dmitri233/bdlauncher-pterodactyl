@@ -13,7 +13,7 @@ RUN         apt -y update \
             && apt-key add winehq.key \
             && apt-add-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ bionic main' \
             && apt -y update \
-            && apt install -y libgl1 libglu1-mesa libgsm1 libodbc1 libosmesa6 libsane libsane1 libsdl2-2.0-0 libv4l-0 libxcomposite1 libxcursor1 libxfixes3 libxi6 libxinerama1 libxrandr2 libxrandr2 libxrender1 libxxf86vm1
+            && apt install -y libgl1 libglu1-mesa libgsm1 libodbc1 libosmesa6 libsane libsane1 libsdl2-2.0-0 libv4l-0 libxcomposite1 libxcursor1 libxfixes3 libxi6 libxinerama1 libxrandr2 libxrandr2 libxrender1 libxxf86vm1 \
             && apt-add-repository 'deb http://cz.archive.ubuntu.com/ubuntu eoan main universe' \
             && apt -y update \
             && apt install -y wine-stable-amd64 \

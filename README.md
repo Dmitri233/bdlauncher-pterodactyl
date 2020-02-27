@@ -1,13 +1,13 @@
 # USE
-This branch enables you to use wine-bdlauncher in the pterodactyl panel.<br>
-Egg file: https://github.com/Dmitri233/bdlauncher-pterodactyl/releases/tag/wine-egg<br>
-Docker images: https://hub.docker.com/r/dmitri233/bdlauncher-pterodactyl<br>
-wine-bdlauncher: https://github.com/codehz/wine-bdlauncher/<br>
+This branch enables you to use ElementZero in the pterodactyl panel.<br>
+Egg file: https://github.com/Dmitri233/ElementZero-pterodactyl/releases/tag/ElementZero-egg<br>
+Docker images: https://hub.docker.com/repository/docker/dmitri233/elementzero-pterodactyl<br>
+ElementZero: https://github.com/codehz/ElementZero/<br>
 
-这个分支使您可以在翼龙面板中使用wine-bdlauncher.<br>
-Egg 文件: https://github.com/Dmitri233/bdlauncher-pterodactyl/releases/tag/wine-egg<br>
-Docker 镜像: https://hub.docker.com/r/dmitri233/bdlauncher-pterodactyl<br>
-wine-bdlauncher: https://github.com/codehz/wine-bdlauncher/<br>
+这个分支使您可以在翼龙面板中使用ElementZero.<br>
+Egg 文件: https://github.com/Dmitri233/ElementZero-pterodactyl/releases/tag/ElementZero-egg<br>
+Docker 镜像: https://hub.docker.com/repository/docker/dmitri233/elementzero-pterodactyl<br>
+ElementZero: https://github.com/codehz/ElementZero/<br>
 
 
 

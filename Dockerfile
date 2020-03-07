@@ -18,7 +18,7 @@ RUN         apt -y update \
             && apt -y update \
             && apt install -y wine-stable-amd64 \
             && apt install -y --install-recommends winehq-stable \
-            && useradd -d /home/container -m container
+            && useradd -u 1000 -d /home/container -m container
 
 USER        container
 ENV         USER=container HOME=/home/container
